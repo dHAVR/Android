@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory
+        android:title="@string/update_preference_category">
+
+        <ListPreference
+            android:defaultValue="3000"
+            android:entries="@array/loc_time_update_name"
+            android:entryValues="@array/loc_time_update_values"
+            android:icon="@drawable/ic_update_time"
+            android:key="update_time_key"
+            android:summary="@string/update_time_summary"
+            android:title="@string/update_time" />
+
+        <ListPreference
+            android:defaultValue="#8039D1"
+            android:entries="@array/routes_color_name"
+            android:entryValues="@array/routes_color_values"
+            android:icon="@drawable/ic_circle"
+            android:key="routes_color_key"
+            android:title="@string/routes_color_preference"
+            android:summary="@string/routes_color_summary"/>
+
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/general_settings">
+
+        <ListPreference
+            android:defaultValue="Dark"
+            android:entries="@array/theme_choose_name"
+            android:entryValues="@array/theme_choose_values"
+            android:icon="@drawable/ic_theme_choose"
+            android:key="theme_choose_key"
+            android:title="@string/theme_preference" />
+    </PreferenceCategory>
+</PreferenceScreen>

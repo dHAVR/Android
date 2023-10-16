@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="loc_time_update_name">
+        <item>3 sec</item>
+        <item>5 sec</item>
+        <item>10 sec</item>
+    </string-array>
+    <string-array name="loc_time_update_values">
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+
+    <string-array name="theme_choose_name">
+        <item>Day</item>
+        <item>Night</item>
+    </string-array>
+    <string-array name="theme_choose_values">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+    <string-array name="routes_color_name">
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Orange</item>
+    </string-array>
+    <string-array name="routes_color_values">
+        <item>#FF006EC5</item>
+        <item>#8039D1</item>
+        <item>#FFFF9800</item>
+    </string-array>
+
+
+</resources>

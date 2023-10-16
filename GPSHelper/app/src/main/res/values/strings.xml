@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GPS Helper</string>
+
+    <string name="settings_but_menu">Settings</string>
+    <string name="home_but_menu">Map</string>
+    <string name="route_but_menu">Tracks</string>
+
+    <string name="update_preference_category">Location</string>
+    <string name="general_settings">General</string>
+
+    <string name="update_time">Update time</string>
+    <string name="theme_preference">Theme</string>
+    <string name="routes_color_preference">Track color</string>
+
+    <string name="update_time_summary">In order to save battery charge, you need to choose a longer update time</string>
+    <string name="routes_color_summary">Choose color for your saved tracks</string>
+
+    <string name="location_disabled">Location dissabled</string>
+    <string name="location_dialog_message">Do you want enable GPS?</string>
+    <string name="location_dialog_button_pos">Yes</string>
+    <string name="location_dialog_button_neg">No</string>
+
+    <string name="speed_patern">Current Speed: </string>
+    <string name="averag_speed_patern">Average speed: </string>
+    <string name="distance_patern">Distance: </string>
+    <string name="time_patern">Time: </string>
+    <string name="date_patern">Date: </string>
+    <string name="km_h_patern">km/h</string>
+    <string name="meter_patern">m</string>
+    <string name="dialog_choose_title">Which way do you want to move?</string>
+    <string name="dialog_save_title">Do you want to save the track?</string>
+    <string name="dialog_choose_description">The accuracy of the measurments will depend on your choise</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty">Empty</string>
+</resources>
