@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="note_style_array">
+        <item>Linear</item>
+        <item>Grid</item>
+    </string-array>
+    <string-array name="note_style_values">
+        <item>Linear</item>
+        <item>Grid</item>
+    </string-array>
+
+    <string-array name="time_format_array">
+        <item>12:30:10 – 2023/06/12</item>
+        <item>12:30:10 – 12/06/2023</item>
+    </string-array>
+    <string-array name="time_format_values">
+        <item>hh:mm:ss - yyyy/MM/dd</item>
+        <item>hh:mm:ss - dd/MM/yyyy</item>
+    </string-array>
+
+    <string-array name="theme_array">
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="theme_values">
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="text_size_array">
+        <item>12 sp</item>
+        <item>14 sp</item>
+        <item>16 sp</item>
+        <item>18 sp</item>
+        <item>20 sp</item>
+    </string-array>
+    <string-array name="text_size_values">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+
+
+
+</resources>
